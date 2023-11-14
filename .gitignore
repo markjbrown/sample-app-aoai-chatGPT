@@ -5,4 +5,4 @@ frontend/node_modules
 .azure/
 __pycache__/
 
-launch.json
+.vscode/launch.json
